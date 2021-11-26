@@ -1,6 +1,14 @@
 # gohash
 
-# 用法
+## 用法
+
+### 下载
+
+```shell
+wget https://github.com/ibook86/gohash/releases/download/v0.0.1/gohash_0.0.1_darwin_amd64.tar.gz && tar -xf gohash_0.0.1_darwin_amd64.tar.gz 
+```
+
+### 使用
 
 ```shell
 $ ./gomd5.exe
