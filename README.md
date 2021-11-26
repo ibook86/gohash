@@ -2,4 +2,10 @@
 
 # 用法
 
-![gomd5-1](pic/gomd5-1.png)
+```shell
+$ ./gomd5.exe
+输入文件路径(按回车键结束)：D:\github\gohash\gomd5.exe
+文件路径：D:\github\gohash\gomd5.exe
+md5值：7a8e582a541f26fe23b07131750afb2f
+按'Enter'键退出本程序
+```
